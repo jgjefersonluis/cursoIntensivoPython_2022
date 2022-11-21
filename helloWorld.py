@@ -1,0 +1,7 @@
+print('Hello, world python!')
+print('I am a python developer.')
+print('My name is Jeferson i am a systems analyst and i like and work with this programming language.')
+print('I am Brazilian, married with one child.')
+print('I am looking for a job opportunity.')
+print('Think of me, may God protect you. Much peace, love and harmony. Strength and faith.')
+print('Good, bye!')
